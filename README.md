@@ -39,8 +39,9 @@ We watched the video of a Stamford open course, named Visualizing and Understand
 
 ### 1.5 Structure
 
-(1) doc -- GR5242 final report.pdf -- final report in pdf
-           We seperate our ipynb and put them into two folders, cifar10 and mnist&svhn
+(1) doc -- GR5242 final report.pdf (final report in pdf)
+           
+        --  We seperate our ipynb and put them into two folders, cifar10 and mnist&svhn
 
 (2) data -- this folder contains CIFAR10 dataset (Need to download again since it is too big to upload)
 
