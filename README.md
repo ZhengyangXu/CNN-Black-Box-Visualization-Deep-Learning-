@@ -6,16 +6,22 @@ Neural networks are usually considered as black boxes, due to its complexity. Fo
 
 ### 1.1	Data Used
 
-In this project, MNIST dataset and SVHN dataset are used. Both contain the images of digits. 
+In this project, MNIST dataset, SVHN dataset and CIFAR10 dataset were used.  
+
 The MNIST dataset of handwriting digit images contains a training set with 60000 images, and a test set with 10000 images. Each input is a 28*28 black and white image. Each output is a label with 10 classes. Digit 1 has label 1, and digit 9 has label 9.
+
 For the SVHN, we use the cropped digits. In the dataset, each input is a 32*32 RGB image. The outputs are labels. There are 10 classes, and one for each digit. 0 has label 10. 1 has label 1, and 9 has label 9. The training set contains 73257 digits, and the test set has 26032 digits.  
 
-
+The CIFAR-10 dataset has 60000 32x32 RGB images in 10 classes. Each class contains 6000 images. The training set contains 50000 images, and the test set has 10000 images.  
+ 
 ### 1.2	Framework of Project
 
 In this project, we used keras. We started from training a simple 2-layers CNN on MNIST. Since the project mainly focused on feature visualization, when building the convnet, we used the code provided by Eijaz Allibhai, in the post Building a Convolutional Neural Network (CNN) in Keras. After that, we first visualized the activation maps given by each filter in the two convolutional layers. Then, through gradient ascent, we found an image for each filter that maximally activated the filter. To make the resulted images more interpretable, we tried to apply some kinds regularization.
+
 Later, we turned to SVHN dataset. Again, we trained a simple CNN on SVHN dataset, and tested whether the steps mentioned above can be applied. 
 
+For our curiosity, we also tried to apply the methods to the CNN trained on CIFAR10 dataset. We wished to know what would learnt by the each layer’s filters, in a CNN trained on a dataset containing more complicated images.
+  
 ### 1.3	Preparation
 
 Since feature visualization was not covered in class, we did some researches on it. 
