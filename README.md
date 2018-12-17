@@ -58,3 +58,7 @@ We watched the video of a Stamford open course, named Visualizing and Understand
 (5) cifar10.py, cache.py, dataset.py -- reference from Havass-Labs (https://github.com/Hvass-Labs/TensorFlow-Tutorials) 
 
 ### 1.6 Reference
+
++ https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
++ https://www.manning.com/books/deep-learning-with-python
++ [Visualizing Higher-Layer Features of a Deep Network 1 Introduction](https://pdfs.semanticscholar.org/65d9/94fb778a8d9e0f632659fb33a082949a50d3.pdf)
