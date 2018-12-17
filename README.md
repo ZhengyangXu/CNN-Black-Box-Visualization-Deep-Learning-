@@ -1,5 +1,5 @@
 # GR5242_Project-3-Feature-visualization-2018fall
-This is the report for Advanced machine learning 2018 fall final project
+This is a brieft introduction of our Advanced machine learning 2018 fall final project. For details and results, please read the report of our project.
 ## 1. Introduction 
 
 Neural networks are usually considered as black boxes, due to its complexity. For a neural network with multiple layers, it is difficult to figure out the features learnt by those hidden layers. In this project, we try to visualize the features learned by the filters of each convolutional layers of a CNN.  
@@ -9,6 +9,7 @@ Neural networks are usually considered as black boxes, due to its complexity. Fo
 In this project, MNIST dataset and SVHN dataset are used. Both contain the images of digits. 
 The MNIST dataset of handwriting digit images contains a training set with 60000 images, and a test set with 10000 images. Each input is a 28*28 black and white image. Each output is a label with 10 classes. Digit 1 has label 1, and digit 9 has label 9.
 For the SVHN, we use the cropped digits. In the dataset, each input is a 32*32 RGB image. The outputs are labels. There are 10 classes, and one for each digit. 0 has label 10. 1 has label 1, and 9 has label 9. The training set contains 73257 digits, and the test set has 26032 digits.  
+
 
 ### 1.2	Framework of Project
 
