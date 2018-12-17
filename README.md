@@ -29,10 +29,10 @@ We watched the video of a Stamford open course, named Visualizing and Understand
 
 ### 1.4 Group members
 
-+ Chenghao Yu uni:cy2475	Sec 002
++ Chenghao Yu cy2475@columbia.edu	Sec 002
 
-+ Zhengyang Xu uni:zx2229	Sec 001
++ Zhengyang Xu zx2229@columbia.eu	Sec 001
 
-+ Yingqiao Zhang uni:yz3209	Sec 001
++ Yingqiao Zhang yz3209@columiba.edu	Sec 001
 
-+ Yanxin Li uni:yl3774	Sec 001
++ Yanxin Li yl3774@columbia.edu	Sec 001
