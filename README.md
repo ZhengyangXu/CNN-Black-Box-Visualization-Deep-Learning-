@@ -39,38 +39,24 @@ We watched the video of a Stamford open course, named Visualizing and Understand
 
 ### 1.5 Structure
 
-(1) main.html -- final report in html
+(1) doc -- GR5242 final report.pdf -- final report in pdf
+           We seperate our ipynb and put them into two folders, cifar10 and mnist&svhn
 
-    main.ipynb -- final report in jupyter notebook
-
-   
 (2) data -- this folder contains CIFAR10 dataset (Need to download again since it is too big to upload)
-
 
 (3) output -- this folder contains saved trained models and some intermediate output (Need to generate again since too big to upload)
 
+(4) lib -- this folder contains function we used
 
-(4) CIFAR10_func -- this document contains functions related to CIFAR10 dataset
-    
-    MaxActivation.py -- this document contains functions related to activation maximization applied on STL10 dataset
-    
-    
-(5) cifar10.py, cache.py, dataset.py -- reference from Havass-Labs (https://github.com/Hvass-Labs/TensorFlow-Tutorials) 
+### 1.6 Rerun code
 
-### 1.6 Reference
++ To rerun the code, please go to the doc folder, and open the ipynb files to run the code, and there are two ipynb files. Please notify that since the Github upload limitation and different working directory, you may not run it smoothly. Please download the relative data and change your working directory to rerun the code.
+
+### 1.7 Reference (Just part, please find all of them in the final report)
 
 + https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 + https://www.manning.com/books/deep-learning-with-python
 + [Visualizing Higher-Layer Features of a Deep Network 1 Introduction](https://pdfs.semanticscholar.org/65d9/94fb778a8d9e0f632659fb33a082949a50d3.pdf)
 + http://ufldl.stanford.edu/housenumbers/
-+	Olah, Chris, et al. “Feature Visualization.” Distill, 23 Aug. 2018, distill.pub/2017/feature-visualization/.
-+	Olah, Chris, et al. “The Building Blocks of Interpretability.” Distill, 22 May 2018, distill.pub/2018/building-blocks/.
-+	Chollet, Francois. “How Convolutional Neural Networks See the World.” The Keras Blog ATOM, 30 Jan. 2016, blog.keras.io/how-convolutional-neural-networks-see-the-world.html.
-+	Allibhai, Eijaz. “Building a Convolutional Neural Network (CNN) in Keras.” Towards Data Science, Towards Data Science, 16 Oct. 2018, towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5.
-+	Auygur. “Auygur/CNN-SVHN_Keras.” GitHub, github.com/auygur/CNN-SVHN_Keras/blob/master/main.py.
-+	Zailer, Matthew D., and Rob Fergus. “Visualizing and Understanding Convolutional Networks.” arxiv.org/abs/1311.2901.
-+	Yosinski, Jason, et al. “Understanding Neural Networks Through Deep Visualization.” arxiv.org/abs/1506.06579.
-+	Mahendran, Aravindh, and Andrea Vedaldi. “Understanding Deep Image Representations by Inverting Them.” 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015, doi:10.1109/cvpr.2015.7299155.
-+	https://www.cs.toronto.edu/~kriz/cifar.html
-+	https://en.wikipedia.org/wiki/Gaussian_blur
++ https://distill.pub/2017/feature-visualization/
 
