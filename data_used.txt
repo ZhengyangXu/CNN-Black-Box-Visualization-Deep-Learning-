@@ -1,0 +1,2 @@
+SVHN: http://ufldl.stanford.edu/housenumbers/
+mnist:  http://yann.lecun.com/exdb/mnist/
