@@ -62,3 +62,5 @@ We watched the video of a Stamford open course, named Visualizing and Understand
 + https://github.com/keras-team/keras/blob/master/examples/cifar10_cnn.py
 + https://www.manning.com/books/deep-learning-with-python
 + [Visualizing Higher-Layer Features of a Deep Network 1 Introduction](https://pdfs.semanticscholar.org/65d9/94fb778a8d9e0f632659fb33a082949a50d3.pdf)
++ http://ufldl.stanford.edu/housenumbers/
++ https://distill.pub/2017/feature-visualization/
