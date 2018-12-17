@@ -36,3 +36,23 @@ We watched the video of a Stamford open course, named Visualizing and Understand
 + Yingqiao Zhang yz3209@columiba.edu	Sec 001
 
 + Yanxin Li yl3774@columbia.edu	Sec 001
+
+### 1.5 Structure
+
+(1) main.html -- final report in html
+
+    main.ipynb -- final report in jupyter notebook
+
+   
+(2) data -- this folder contains CIFAR10 dataset (Need to download again since it is too big to upload)
+
+
+(3) output -- this folder contains saved trained models and some intermediate output (Need to generate again since too big to upload)
+
+
+(4) CIFAR10_func -- this document contains functions related to CIFAR10 dataset
+    
+    MaxActivation.py -- this document contains functions related to activation maximization applied on STL10 dataset
+    
+    
+(5) cifar10.py, cache.py, dataset.py -- reference from Havass-Labs (https://github.com/Hvass-Labs/TensorFlow-Tutorials) 
