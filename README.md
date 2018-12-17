@@ -63,4 +63,14 @@ We watched the video of a Stamford open course, named Visualizing and Understand
 + https://www.manning.com/books/deep-learning-with-python
 + [Visualizing Higher-Layer Features of a Deep Network 1 Introduction](https://pdfs.semanticscholar.org/65d9/94fb778a8d9e0f632659fb33a082949a50d3.pdf)
 + http://ufldl.stanford.edu/housenumbers/
-+ https://distill.pub/2017/feature-visualization/
++	Olah, Chris, et al. “Feature Visualization.” Distill, 23 Aug. 2018, distill.pub/2017/feature-visualization/.
++	Olah, Chris, et al. “The Building Blocks of Interpretability.” Distill, 22 May 2018, distill.pub/2018/building-blocks/.
++	Chollet, Francois. “How Convolutional Neural Networks See the World.” The Keras Blog ATOM, 30 Jan. 2016, blog.keras.io/how-convolutional-neural-networks-see-the-world.html.
++	Allibhai, Eijaz. “Building a Convolutional Neural Network (CNN) in Keras.” Towards Data Science, Towards Data Science, 16 Oct. 2018, towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5.
++	Auygur. “Auygur/CNN-SVHN_Keras.” GitHub, github.com/auygur/CNN-SVHN_Keras/blob/master/main.py.
++	Zailer, Matthew D., and Rob Fergus. “Visualizing and Understanding Convolutional Networks.” arxiv.org/abs/1311.2901.
++	Yosinski, Jason, et al. “Understanding Neural Networks Through Deep Visualization.” arxiv.org/abs/1506.06579.
++	Mahendran, Aravindh, and Andrea Vedaldi. “Understanding Deep Image Representations by Inverting Them.” 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015, doi:10.1109/cvpr.2015.7299155.
++	https://www.cs.toronto.edu/~kriz/cifar.html
++	https://en.wikipedia.org/wiki/Gaussian_blur
+
